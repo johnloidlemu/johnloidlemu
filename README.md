@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @johnloidlemu
+- 👀 I’m interested in web development, specifically working with HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning advanced JavaScript concepts and exploring React.js for building dynamic web applications.
+- 💞️ I’m looking to collaborate on front-end development projects, especially those that require a keen eye for design and user experience.
+- 📫 How to reach me: jlemu30@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love experimenting with new CSS techniques and creating visually stunning web designs!
