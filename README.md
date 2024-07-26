@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-Hello! I'm Johnloid, a passionate Computer Science student and talented portrait graphite pencil artist, born on May 30, 2003. I am currently pursuing my degree in Computer Science at Isabela State University, where I am deeply engaged in exploring the intersections of technology and art.
+Hello! I'm Johnloid, a passionate Computer Science student and talented portrait graphite pencil artist. I am currently pursuing my degree in Computer Science at Isabela State University, where I am deeply engaged in exploring the intersections of technology and art.
 
 My GitHub profile showcases a range of projects that reflect my dedication to innovation and creativity. From developing dynamic web applications using HTML, CSS, and JavaScript to contributing to open-source projects like `Streamlit_Fundamentals_notes`, my work aims to blend technical proficiency with artistic insight.
 
